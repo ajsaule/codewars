@@ -51,6 +51,7 @@ console.log('hello WOrlds')
 
 // console.log(longestRepetition('abbbbb'))
 
+// V2 OF SOLUTION: Using object and value contains an array. 
 
 function longestRepetition(str, uniqChars = {}) {
     // catch condition if str is empty 
