@@ -12,3 +12,4 @@ Collection of my completed codewars katas
 * Get the mean of an array *(js)*
 * Character with longest consecutive repetition *(js)*
 * String array duplicats *(ruby)*
+* Rot13 - Cipher/ encryption *(ruby)*
