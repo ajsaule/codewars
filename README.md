@@ -13,3 +13,4 @@ Collection of my completed codewars katas
 * Character with longest consecutive repetition *(js)*
 * String array duplicats *(ruby)*
 * Rot13 - Cipher/ encryption *(ruby)*
+* Substitute vars into strings *(php)*
