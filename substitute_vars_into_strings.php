@@ -15,11 +15,11 @@ solution(5);
 
 
 # performing conole log into console with PHP we can do the following 
-# function console_log($data){
-#     echo '<scropt>';
-#     echo 'console.log('. json_encode($data) .')';
-#     echo '</script>';
-# };
+function console_log($data){
+    echo '<scropt>';
+    echo 'console.log('. json_encode($data) .')';
+    echo '</script>';
+};
 
 
 # Strange issue: 
