@@ -14,9 +14,9 @@
 // solve('gh12cdy695m1')
 
 // testing a sort on myArr 
-let myArr = [1, 2, 3, 4, 5]
+// let myArr = [1, 2, 3, 4, 5]
 
-console.log(myArr.sort((a, b) => a - b))
+// console.log(myArr.sort((a, b) => a - b))
 
 // SOLUTION #2 working solution.
 
@@ -40,3 +40,5 @@ console.log(solve('vih61w8o1255ohj5'))
 function solve(s){
     return Math.max(...s.match(/\d+/g));
 };
+
+
