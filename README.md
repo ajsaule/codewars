@@ -11,7 +11,8 @@ Collection of my completed codewars katas
 * Grasshopper - debug *(js)*
 * Get the mean of an array *(js)*
 * Character with longest consecutive repetition *(js)*
-* String array duplicats *(ruby)*
+* String array duplicates *(ruby)*
 * Rot13 - Cipher/ encryption *(ruby)*
 * Substitute vars into strings *(php)*
 * Numbers in strings *(js)*
+* Numbers in strings *(ruby)*
