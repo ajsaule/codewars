@@ -14,3 +14,4 @@ Collection of my completed codewars katas
 * String array duplicats *(ruby)*
 * Rot13 - Cipher/ encryption *(ruby)*
 * Substitute vars into strings *(php)*
+* Numbers in strings *(js)*
