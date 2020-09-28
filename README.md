@@ -16,3 +16,4 @@ Collection of my completed codewars katas
 * Substitute vars into strings *(php)*
 * Numbers in strings *(js)*
 * Numbers in strings *(ruby)*
+* ParseInt() reloaded *(js)*
