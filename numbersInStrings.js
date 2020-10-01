@@ -25,7 +25,7 @@ function solve(s) {
         .replace(/[a-zA-Z]/g, '-')
         .split("-")
         .map(el =>
-            (/[0-9]/.test(el))
+            /[0-9]/.test(el)
                 ? Number(el)
                 : []
         )

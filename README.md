@@ -17,4 +17,5 @@ Collection of my completed codewars katas
 * Numbers in strings *(js)*
 * Numbers in strings *(ruby)*
 * ParseInt() reloaded *(js)*
-* Max addition *(js)*
+* Matrix addition *(js)*
+* Reverse letter *(js)*
