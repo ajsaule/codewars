@@ -10,7 +10,7 @@
 // |3 2 1|  +  |3 2 3|  =  |3+3 2+2 1+3|  =  |6 4 4|
 // |1 1 1|     |1 1 3|     |1+1 1+1 1+3|     |2 2 4|
 
-let arrA = [[1, 2, 3],
+let arrA = [ [1, 2, 3],
              [3, 2, 1],
              [1, 1, 1] ]
 
@@ -56,10 +56,10 @@ matrixAddition(arrC, arrD)
 
 // recursive version
 
-function matrixAddition(a, b){
-    return a.map(function(n, i){
-      return n.map(function(o, j){
-        return o + b[i][j];
+function matrixAddition(x, y){
+    return x.map(function(h, i){
+      return h.map(function(v, j){
+        return v + y[i][j];
       });
     });
 }
