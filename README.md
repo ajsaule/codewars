@@ -5,7 +5,7 @@ Collection of my completed codewars katas
 
 ## List of completed challenges
 
-* Who likes it? *(js)*
+* [Who likes it?](whoLikesIt?.js) *(js)*
 * Find multiples of a number *(js)*
 * Fake binary *(js)*
 * Grasshopper - debug *(js)*
