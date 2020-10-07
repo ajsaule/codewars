@@ -10,12 +10,13 @@ function dup(s) {
     let newArr = []
     let tempChar = ''
     s.forEach((str, indx) => {
-            newArr = str[indx].split().map(char => {
-                char === tempChar 
-                ? delete char 
-                : char
-                tempChar = char
-            })
+            newArr = str.split('').forEach(el => console.log(el))
+            // .map(char => {
+            //     char === tempChar 
+            //     ? delete char 
+            //     : char
+            //     tempChar = char
+            // })
             tempChar = ''
         
     })
