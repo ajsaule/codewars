@@ -8,7 +8,7 @@ Collection of my completed codewars katas
 * [Who likes it?](whoLikesIt%3F.js) *(js)*
 * [Find multiples of a number](multiplesOfInt.js) *(js)*
 * [Multiples of 3 and 5](mutlipleOf3Or5.js) *(js)*
-* [One line (< 60 chars): Multiples of 3 and 5](<60charMultiple3and5.js) *(js)*
+* [One line... < 60 chars: Multiples of 3 and 5](<60charMultiple3and5.js) *(js)*
 * [Fake binary](fakeBinary.js) *(js)*
 * [Grasshopper - debug](grasshopperDebug.js) *(js)*
 * [Get the mean of an array](getTheMeanOfArray.js) *(js)*
