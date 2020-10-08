@@ -6,11 +6,27 @@
 // threesAndFives(87) => [23, 12, 5];
 // threesAndFives(444) => [118, 59, 29];
 
-threesAndFives = (n, x = 0, y = []) => { 
-    while (x<n) { 
-      if (x % 3 == 0 || x % 5 == 0) y.push(n)
-      x++
+// threesAndFives=(n,x=1,y=[0,0,0])=> { 
+//     while (x<n) { 
+//         if (x % 3 == 0) y[0]++
+//         if (x % 5 == 0) y[1]++
+//         if (x % 3 == 0 && x % 5 == 0) y[2]++
+//         x++
+//     }
+//     return y
+// }
+
+// ??? Perplexed is I who stares at this problem. 
+// how to condense this from 170chars to <61 .. ? 
+
+// I think the problem lays in simlifying the 3 conditional statements into one somehow? Loop and dynamically change the numbers in the condition and incrementor? 
+  
+threesAndFives=(n,y=[0,0,0])=> { 
+    while (0<n) { 
+        if (x % 3 == 0) y[0]++
+        if (x % 5 == 0) y[1]++
+        if (x % 3 == 0 && x % 5 == 0) y[2]++
+        n--
     }
     return y
-  }
-  
+}

@@ -31,7 +31,7 @@
 #     final_arr
 # end
 
-# p dup ['cccoooddeeewarrrss', 'cuccckkkkss', 'piiinguu'] 
+# p dup ['cccoooddeeewarrrss', 'heeellloooworllldd', 'quuuackkk'] 
 
 # binding.pry
 
@@ -56,7 +56,7 @@ def dup arr, temp_arr = [], split_arr = [], finale = [], temp_char = ""
     finale
 end
 
-p dup ['cccoooddeeewarrrss', 'cuccckkkkss', 'piiingu']
+p dup ['cccoooddeeewarrrss', 'heeellloooworllldd', 'quuuackkk']
 
 ## It feels bad when you find a 1 line solution after struggling for a day.. 
 
@@ -64,4 +64,4 @@ def dup(arr)
     arr.map(&:squeeze)
 end
 
-p dup ['cccoooddeeewarrrss', 'cuccckkkkss', 'piiingu']
+p dup ['cccoooddeeewarrrss', 'heeellloooworllldd', 'quuuackkk']
