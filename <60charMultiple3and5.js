@@ -6,6 +6,8 @@
 // threesAndFives(87) => [23, 12, 5];
 // threesAndFives(444) => [118, 59, 29];
 
+// first tests with just a long written out case and an extra variable to count down 
+
 // threesAndFives=(n,x=1,y=[0,0,0])=> { 
 //     while (x<n) { 
 //         if (x % 3 == 0) y[0]++
@@ -23,10 +25,15 @@
   
 threesAndFives=(n,y=[0,0,0])=> { 
     while (0<n) { 
-        if (x % 3 == 0) y[0]++
-        if (x % 5 == 0) y[1]++
-        if (x % 3 == 0 && x % 5 == 0) y[2]++
+        if (n % 3 == 0 && n % 5 == 0) {
+            y[2]++
+        } else {
+            if (n % 3 == 0) y[0]++
+            if (n % 5 == 0) y[1]++
+        } 
         n--
     }
     return y
 }
+
+
