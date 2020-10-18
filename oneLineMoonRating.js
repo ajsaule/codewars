@@ -9,3 +9,8 @@ moonRating=(r,m={'o':2,'c':0.5,'x':0})=>{
 }
 
 console.log(moonRating(2))
+
+
+// actual solution, learn this
+
+moonRating=x=>('o'.repeat((x+=.5)>>1)+['c'[~x&1]]).padEnd(5,'x')
