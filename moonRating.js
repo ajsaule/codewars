@@ -13,8 +13,17 @@ function moonRating(rating) {
         'c': 0.5,
         'x': 0,
     }
-    for (let key in moonObj) {
-        
+    while (rRound > 0) {
+        if (rRound - moonObj['o'] >= 0) {
+            rRound -= moonObj['o']
+            rString += 'o'
+        } else if (rRound - moonObj['c'] >= 0) {
+            rRound -= moonObj['c']
+            rString += 'c'
+        } 
     }
+    rString += 'x'.repeat(5-rString.length)
+    return rString
 }
 
+console.log(moonRating(5))
