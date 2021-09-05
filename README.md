@@ -23,7 +23,7 @@ Coming soon..
 #### 3 kyu
 
 - [Reverse array in less than 30 bytes](reverseArrayIn<30bytes.js) _(js)_
-- [One line... < 60 chars: Multiples of 3 and 5](<60charMultiple3and5.js) _(js)_ \*
+- [One line... < 60 chars: Multiples of 3 and 5](\<60charMultiple3and5.js) _(js)_ \*
 
 #### 4 kyu
 
