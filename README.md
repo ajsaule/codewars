@@ -9,6 +9,7 @@ Collection of my completed codewars katas
 (1 = Hardest, 8 = Easiest)
 
 Revise = \*
+
 Not completed = \*\*
 
 #### 1 kyu
