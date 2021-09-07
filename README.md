@@ -23,7 +23,7 @@ Coming soon..
 #### 3 kyu
 
 - [Reverse array in less than 30 bytes](reverseArrayIn<30bytes.js) _(js)_
-- [One line... < 60 chars: Multiples of 3 and 5](\<60charMultiple3and5.js) _(js)_ \*
+- [One line... < 60 chars: Multiples of 3 and 5](<60charMultiple3and5.js) _(js)_ \*
 
 #### 4 kyu
 
@@ -64,3 +64,4 @@ Coming soon..
 - [Get the mean of an array](getTheMeanOfArray.js) _(js)_
 - [Fake binary](fakeBinary.js) _(js)_
 - [Grasshopper - debug](grasshopperDebug.js) _(js)_
+- [MakeUpperCase](makeUpperCase.js) _(js)_
