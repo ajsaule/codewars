@@ -56,6 +56,7 @@ Coming soon..
 - [Simple moon rating](moonRating.js) _(js)_ \*
 - [Highest and Lowest](highAndLow.js) _(js)_
 - [Going to the cinema](movie.js) _(js)_
+- [Waiting room](lastChair.js) _js_
 
 #### 8 kyu
 
