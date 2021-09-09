@@ -27,3 +27,40 @@ function duplicateEncode(word) {
   return finalArr;
 }
 duplicateEncode("hello");
+
+// other approach using less low level code here
+
+function duplicateEncodeV2(word) {
+  let wordArr = word.toLowerCase().split("");
+  let tempArr = [];
+  let letterCollection = [];
+  wordArr.forEach((letter) => tempArr.push(wordArr.indexOf(letter)));
+  tempArr.forEach((index) => {
+    if (!letterCollection.indexOf(index)) letterCollection.push(index);
+  });
+  return letterCollection;
+}
+
+duplicateEncodeV2("hello");
+
+// below is close but does not handle every second repetitive letter e.g. repetitive - will not pickup the dupes
+function duplicateEncodeV3(word) {
+  let letters = word.toLowerCase().split("");
+  let temp = [];
+  let duplicates = [];
+  let last = [];
+  // create index of duplicates
+  letters.forEach((letter, index) => {
+    temp.push(letters.indexOf(letter));
+    if (temp.indexOf(index) == -1) duplicates.push(letter);
+  });
+  // create string of symbols
+  letters.forEach((letter) => {
+    if (letter.indexOf(duplicates)) {
+      last.push(")");
+    } else {
+      last.push("(");
+    }
+  });
+  return last.join("");
+}
