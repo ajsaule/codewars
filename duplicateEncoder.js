@@ -1,8 +1,6 @@
 // The goal of this exercise is to convert a string to a new string where each character in the new string is "(" if that character appears only once in the original string, or ")" if that character appears more than once in the original string. Ignore capitalization when determining if a character is a duplicate.
 // https://www.codewars.com/kata/54b42f9314d9229fd6000d9c
 
-//*-*~*~*~*~*~ Not finished *~*~*~*~*~*~*~*~*~*~//
-
 function duplicateEncode(word) {
   const wArr = word.toLowerCase().split("");
   let finalArr = [];
@@ -57,6 +55,39 @@ function duplicateEncodeV3(word) {
   // create string of symbols
   letters.forEach((letter) => {
     if (letter.indexOf(duplicates)) {
+      last.push(")");
+    } else {
+      last.push("(");
+    }
+  });
+  return last.join("");
+}
+
+duplicateEncodeV3("hello");
+
+// ! working solution..
+// below can handle strictly duplicates and > 2 scenarios
+function duplicateEncode(word) {
+  let letters = word.toLowerCase().split("");
+  let temp = [];
+  let multiples = [];
+  let onlyDupes = [];
+  let last = [];
+
+  // create index of duplicates
+  letters.forEach((letter, index) => {
+    temp.push(letters.indexOf(letter));
+    if (temp.indexOf(index) == -1) multiples.push(letter); // but isn't -1 not index
+  });
+
+  // if need to clear out > duplicates
+  //   multiples.forEach((letter, index) => {
+  //     if (!multiples.indexOf(letter)) onlyDupes.push(letter)
+  //   })
+
+  // create string of symbols
+  letters.forEach((letter) => {
+    if (multiples.indexOf(letter) >= 0) {
       last.push(")");
     } else {
       last.push("(");

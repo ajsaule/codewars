@@ -44,7 +44,7 @@ Coming soon..
 - [String array duplicates](string_array_duplicates.rb) _(ruby)_
 - [String array duplicates](srtingArrayDuplicates.js) _(js)_ \*
 - [Matrix addition](matrixAddition.js) _(js)_
-- [Duplicate Encoder](duplicateEncoder.ts) _(js)_ \*\*
+- [Duplicate Encoder](duplicateEncoder.ts) _(js)_ \*
 - [Bouncing balls](bouncingBalls.js) _(js)_ \*\*
 
 #### 7 kyu
