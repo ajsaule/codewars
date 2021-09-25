@@ -46,6 +46,7 @@ Coming soon..
 - [Matrix addition](matrixAddition.js) _(js)_
 - [Duplicate Encoder](duplicateEncoder.ts) _(js)_ \*
 - [Bouncing balls](bouncingBalls.js) _(js)_ \*\*
+- [Unique in Order](uniqueInOrder.js) _(js)_
 
 #### 7 kyu
 
