@@ -59,6 +59,7 @@ Coming soon..
 - [Highest and Lowest](highAndLow.js) _(js)_
 - [Going to the cinema](movie.js) _(js)_
 - [Waiting room](lastChair.js) _js_
+- [Friend or Foe?](friendOrFoe.js) _js_
 
 #### 8 kyu
 
