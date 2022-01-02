@@ -48,6 +48,7 @@ Coming soon..
 - [Bouncing balls](bouncingBalls.js) _(js)_ \*\*
 - [Unique in Order](uniqueInOrder.js) _(js)_
 - [Convert string to camel case](toCamelCase.js) _(js)_
+- [Detect panagram](detectPanagram.js) _(js)_
 
 #### 7 kyu
 
