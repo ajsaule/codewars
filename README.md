@@ -71,3 +71,4 @@ Coming soon..
 - [Fake binary](fakeBinary.js) _(js)_
 - [Grasshopper - debug](grasshopperDebug.js) _(js)_
 - [MakeUpperCase](makeUpperCase.js) _(js)_
+- [Return Negative](returnNegative.js) _(js)_
