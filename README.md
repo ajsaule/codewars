@@ -61,6 +61,7 @@ Coming soon..
 - [Going to the cinema](movie.js) _(js)_
 - [Waiting room](lastChair.js) _js_
 - [Friend or Foe?](friendOrFoe.js) _js_
+- [Complementary DNA](dnaStrand_v1.js) _js_
 
 #### 8 kyu
 
