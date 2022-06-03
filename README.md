@@ -62,7 +62,7 @@ Coming soon..
 - [Waiting room](lastChair.js) _js_
 - [Friend or Foe?](friendOrFoe.js) _js_
 - [Complementary DNA](dnaStrand_v1.js) _js_
-- [simpleStringCharacters](simpleStringCharacters.js) _(js)_
+- [Simple String Characters](simpleStringCharacters.js) _(js)_
 
 #### 8 kyu
 
@@ -74,4 +74,5 @@ Coming soon..
 - [MakeUpperCase](makeUpperCase.js) _(js)_
 - [Return Negative](returnNegative.js) _(js)_
 - [catYearsDogYears](catYearsDogYears.js) _(js)_
-- [convertNumberToReverseArray](convertNumberToReverseArray.js) _(js)_
+- [Convert Number to Reverse Array](convertNumberToReverseArray.js) _(js)_
+- [String Cleaning](stringCleaning.js) _(js)_
