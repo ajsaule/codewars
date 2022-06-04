@@ -5,5 +5,17 @@
 const stringClean = (s) =>
   s
     .split("")
-    .map((char) => (/[^\d]/.test(char) ? char : ""))
+    .map((char) => (/"|'/g.test(char) ? char : ""))
+    .join("");
+
+// cleaner one line solution:
+
+const stringCleaning = (s) => s.replace(/\d/g, "");
+
+const stringCleaningV2 = (s) => s.replace(/"|'/g, "");
+
+const stringCleanV2 = (s) =>
+  s
+    .split("")
+    .map((char) => (/"|'/g.test(char) ? char : ""))
     .join("");

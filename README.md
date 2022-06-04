@@ -73,6 +73,9 @@ Coming soon..
 - [Grasshopper - debug](grasshopperDebug.js) _(js)_
 - [MakeUpperCase](makeUpperCase.js) _(js)_
 - [Return Negative](returnNegative.js) _(js)_
-- [catYearsDogYears](catYearsDogYears.js) _(js)_
+- [Cat Years Dog Years](catYearsDogYears.js) _(js)_
 - [Convert Number to Reverse Array](convertNumberToReverseArray.js) _(js)_
 - [String Cleaning](stringCleaning.js) _(js)_
+- [Quarter of the year](quarterOfTheYear.js) _(js)_
+- [Gravity flip](gravityFlip.js) _(js)_
+- [Check same case](checkSameCase.js) _(js)_
