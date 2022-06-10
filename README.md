@@ -80,3 +80,5 @@ Coming soon..
 - [Gravity flip](gravityFlip.js) _(js)_
 - [Check same case](checkSameCase.js) _(js)_
 - [Warn the sheep](warnTheSheep.js) _(js)_ \*\*
+- [Closest elevator](closestElevator.js) _(js)_
+- [Total amount of points](totalAmountOfPoints.js) _(js)_
