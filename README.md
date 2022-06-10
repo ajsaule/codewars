@@ -79,3 +79,4 @@ Coming soon..
 - [Quarter of the year](quarterOfTheYear.js) _(js)_
 - [Gravity flip](gravityFlip.js) _(js)_
 - [Check same case](checkSameCase.js) _(js)_
+- [Warn the sheep](warnTheSheep.js) _(js)_ \*\*
