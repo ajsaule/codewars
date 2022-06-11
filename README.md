@@ -83,3 +83,8 @@ Coming soon..
 - [Closest elevator](closestElevator.js) _(js)_
 - [Total amount of points](totalAmountOfPoints.js) _(js)_
 - [Sum of differences in array](sumOfDifferencesInArray.js) _(js)_
+- [Draw stairs](drawStairs.js) _(js)_ \*
+- [If you can't sleep, just count sheep!!](ifYouCantSleepJustCountSheep.js) _(js)_
+-
+
+// Goal to do 50, 32 to go..
