@@ -82,3 +82,4 @@ Coming soon..
 - [Warn the sheep](warnTheSheep.js) _(js)_ \*\*
 - [Closest elevator](closestElevator.js) _(js)_
 - [Total amount of points](totalAmountOfPoints.js) _(js)_
+- [Sum of differences in array](sumOfDifferencesInArray.js) _(js)_
