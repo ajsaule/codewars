@@ -5,14 +5,14 @@
 // Note: If the number is a multiple of both 3 and 5, only count it once. Also, if a number is negative, return 0(for languages that do have them)
 
 function solution(number) {
-    let myArray = 0
-    let i = 1
-    
-    while (i < number) {
-        if (i % 3 === 0 || i % 5 === 0) {
-          myArray += i 
-      }
-      i++
+  let myArray = 0;
+  let i = 1;
+
+  while (i < number) {
+    if (i % 3 === 0 || i % 5 === 0) {
+      myArray += i;
     }
-  return myArray
+    i++;
+  }
+  return myArray;
 }
