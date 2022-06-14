@@ -87,6 +87,7 @@ Coming soon..
 - [If you can't sleep, just count sheep!!](ifYouCantSleepJustCountSheep.js) _(js)_
 - [The feast of many beasts](theFeastOfManyBeasts.js) _(js)_
 - [Century from year](centuryFromYear.js) _(js)_
--
+- [Define a card as suit](defineACardAsSuit.js) _(js)_
+- [Multiple of index](multipleOfIndex.js) _(js)_
 
-Goal to do 50, 30 to go..
+Goal to do 50, 29 to go..
