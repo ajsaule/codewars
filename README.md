@@ -95,5 +95,7 @@ Coming soon..
 - [Array plus Array](arrayPlusArray.js) _(js)_
 - [Can we divide it?](canWeDivideIt.js) _(js)_
 - [Reverse sequence](reverseSequence.js) _(js)_
+- [Conver to binary](convertToBinary) _(js)_
+-
 
-Goal to do 50, 24 to go..
+- Goal to do 50, 22 to go..
