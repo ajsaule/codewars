@@ -94,6 +94,6 @@ Coming soon..
 - [Type of Sum](typeOfSum.js) _(js)_
 - [Array plus Array](arrayPlusArray.js) _(js)_
 - [Can we divide it?](canWeDivideIt.js) _(js)_
--
+- [Reverse sequence](reverseSequence.js) _(js)_
 
 Goal to do 50, 24 to go..
