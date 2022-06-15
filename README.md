@@ -92,6 +92,7 @@ Coming soon..
 - [CSV representation of array](csvRepresentationOfArray.js) _(js)_
 - [Multiplication table for number](multiplicationTableForNumber.js) _(js)_
 - [Type of Sum](typeOfSum.js) _(js)_
+- [Array plus Array](arrayPlusArray.js) _(js)_
 -
 
-Goal to do 50, 26 to go..
+Goal to do 50, 25 to go..

@@ -15,7 +15,7 @@ function solve(s) {
       upperCase++;
     } else if (typeof parseFloat(char) === "number") {
       number++;
-    } else if (/^[a-zA-Z0-9!@#\$%\^\&*\)\(+=._-]+$/.test(char)) {
+    } else if (/[\M]/.test(char)) {
       special++;
     }
   });
