@@ -93,6 +93,7 @@ Coming soon..
 - [Multiplication table for number](multiplicationTableForNumber.js) _(js)_
 - [Type of Sum](typeOfSum.js) _(js)_
 - [Array plus Array](arrayPlusArray.js) _(js)_
+- [Can we divide it?](canWeDivideIt.js) _(js)_
 -
 
-Goal to do 50, 25 to go..
+Goal to do 50, 24 to go..
