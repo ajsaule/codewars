@@ -97,5 +97,7 @@ Coming soon..
 - [Reverse sequence](reverseSequence.js) _(js)_
 - [Convert to binary](convertToBinary.js) _(js)_
 - [Return the day](returnTheDay.js)
+- [Is he gonna survive?](isHeGonnaSurvive.js) _(js)_
+- [Simple Fun #352: Reagent Formula](simpleFunReagentFormula.js) _(js)_
 
-- Goal to do 50, 22 to go..
+- Goal to do 50, 19 to go..
