@@ -102,5 +102,8 @@ Coming soon..
 - [Man in the west](manInTheWest.js) _(js)_
 - [USD => CNY](usdCny.js) _(js)_
 - [Contamination #1 String](contaminationString.js) _(js)_
+- [FIXME: Replace all dots](fixMeReplaceAllDots.js) _(js)_
+- [Sum the strings](sumTheStrings.js) _(js)_
+-
 
-- Goal to do 50, 17 to go..
+- Goal to do 50, 14 to go..
