@@ -104,6 +104,9 @@ Coming soon..
 - [Contamination #1 String](contaminationString.js) _(js)_
 - [FIXME: Replace all dots](fixMeReplaceAllDots.js) _(js)_
 - [Sum the strings](sumTheStrings.js) _(js)_
+- [Capitalisation and Mutability](capitalisationAndMutability.js) _(js)_
+- [Five without numbers!](fiveWithoutNumbers.js) _(js)_
+- [Count odd numbers below n](countOddNumbersBelowN.js) _(js)_
 -
 
-- Goal to do 50, 14 to go..
+- Goal to do 50, 12 to go..
