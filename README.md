@@ -109,6 +109,7 @@ Coming soon..
 - [Count odd numbers below n](countOddNumbersBelowN.js) _(js)_
 - [Get the Nth even number](nthEvenNumber.js) _(js)_ \*\*
 - [HQ9](hq9.js)
+- [Find the first non-consecutive number](firstNonConsecutiveNumber.js) _(js)_
 -
 
-- Goal to do 50, 10 to go..
+- Goal to do 50, 9 to go..
