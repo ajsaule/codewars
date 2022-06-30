@@ -34,6 +34,7 @@ Coming soon..
 #### 5 kyu
 
 - [Rot13 - Cipher/ encryption](rot13.rb) _(ruby)_ \*
+- [Rot13 - Cipher/ encryption](rot13.js) _(js)_ \*
 - [One line task - Moon Rating](oneLineMoonRating.js) _(js)_
 
 #### 6 kyu
