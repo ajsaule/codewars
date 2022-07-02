@@ -43,7 +43,7 @@ Coming soon..
 - [Multiples of 3 or 5](mutlipleOf3Or5.js) _(js)_
 - [Character with longest consecutive repetition](consecutiveChar_v3_working.js) _(js)_
 - [String array duplicates](string_array_duplicates.rb) _(ruby)_
-- [String array duplicates](srtingArrayDuplicates.js) _(js)_ \*
+- [String array duplicates](stringArrayDuplicates.js) _(js)_ \*
 - [Matrix addition](matrixAddition.js) _(js)_
 - [Duplicate Encoder](duplicateEncoder.ts) _(js)_ \*
 - [Bouncing balls](bouncingBalls.js) _(js)_ \*\*
@@ -112,6 +112,7 @@ Coming soon..
 - [HQ9](hq9.js)
 - [Find the first non-consecutive number](firstNonConsecutiveNumber.js) _(js)_
 - [Do you speak english](doYouSpeakEnglish.js) _(js)_
--
+- [Who is paying for the wall?](whoIsPayingForTheWall.js) _(js)_
+- []
 
-- Goal to do 50, 8 to go..
+- Goal to do 50, 7 to go..
