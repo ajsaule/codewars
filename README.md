@@ -113,6 +113,8 @@ Coming soon..
 - [Find the first non-consecutive number](firstNonConsecutiveNumber.js) _(js)_
 - [Do you speak english](doYouSpeakEnglish.js) _(js)_
 - [Who is paying for the wall?](whoIsPayingForTheWall.js) _(js)_
-- []
+- [Invert values](invertValues.js) _(js)_
+- [Merge two sorted arrays into one](mergeTwoSortedArraysIntoOne.js) _(js)_
+-
 
-- Goal to do 50, 7 to go..
+- Goal to do 50, 5 to go..
