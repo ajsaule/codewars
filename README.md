@@ -115,6 +115,7 @@ Coming soon..
 - [Who is paying for the wall?](whoIsPayingForTheWall.js) _(js)_
 - [Invert values](invertValues.js) _(js)_
 - [Merge two sorted arrays into one](mergeTwoSortedArraysIntoOne.js) _(js)_
+- [Calculate price excluding VAT](priceExcludingVAT.js) _(js)_ \*\*
 -
 
-- Goal to do 50, 5 to go..
+- Goal to do 50, 4 to go..
